@@ -1,4 +1,4 @@
-# CyberBullying-Detection-using-Machine-Learning
+# CyberBullying Detection using Machine Learning
 Cyberbullying Detection Using Machine Learning Code, Document And Video Tutorial.
 
 ![Cyberbullying](https://github.com/user-attachments/assets/b45f82ba-4589-43c5-8a72-e2350afdd7e5)
